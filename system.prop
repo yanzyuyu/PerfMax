@@ -1,0 +1,12 @@
+# system.prop
+
+ro.surface_flinger.max_frame_buffer_acquired_buffers=3
+debug.sf.latch_unsignaled=1
+debug.sf.disable_backpressure=1
+
+debug.hwui.render_dirty_regions=false
+debug.hwui.use_buffer_age=false
+debug.egl.hw=1
+debug.composition.type=gpu
+
+persist.sys.purgeable_assets=1

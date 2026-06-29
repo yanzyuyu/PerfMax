@@ -1,0 +1,6 @@
+id=universal-perfmax
+name=Universal PerfMax
+version=v3.0.0
+versionCode=300
+author=ynzyuyu
+description=Universal root performance module for ALL CPUs and ALL Android versions. Real kernel-level CPU, GPU, I/O, memory, and network tuning.
